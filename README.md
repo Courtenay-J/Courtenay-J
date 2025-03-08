@@ -1,5 +1,8 @@
-## Hi there 👋
+## Courtenay
 
+Student of Swinburne's Masters of Information Technology. I haven't used GitHub in probably 12 years. Better late than never, I guess?
+
+(If you're wondering why my username has a J in it, that's my middle initial.)
 <!--
 **Courtenay-J/Courtenay-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ## Courtenay
 
-Student of Swinburne's Masters of Information Technology. I haven't used GitHub in probably 12 years. Better late than never, I guess?
+Student of Swinburne's Masters of Information Technology, freelance gamedev.
 
 (If you're wondering why my username has a J in it, that's my middle initial.)
 <!--
